@@ -2,7 +2,12 @@
 
 With npm:
 
-Open in development mode
+Install dependencies
+```bash
+npm install
+```
+
+Start in development mode.
 ```bash
 npm run dev
 ```
